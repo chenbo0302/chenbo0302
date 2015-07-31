@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Git in master  time:21.17
+Git means do work in dev branch:21:20
